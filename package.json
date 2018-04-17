@@ -1,0 +1,24 @@
+{
+  "name": "node-redis",
+  "version": "1.0.0",
+  "description": "### 思路",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guimeisang/node-redis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guimeisang/node-redis/issues"
+  },
+  "homepage": "https://github.com/guimeisang/node-redis#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-redis": "^2.1.1"
+  }
+}
